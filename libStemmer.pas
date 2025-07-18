@@ -1,5 +1,5 @@
 unit libStemmer;
-{$define USE_LIBSTEMMER_DLL} // uncomment to use libstemmer.dll
+{.$define USE_LIBSTEMMER_DLL} // uncomment to use libstemmer.dll
 interface
 
 uses Types, SysUtils;
