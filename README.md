@@ -14,7 +14,7 @@ The `libStemmer` unit provides Delphi bindings for the Snowball stemming library
    - List available algorithms
    - Create/destroy stemmer objects
    - Stem words using specified algorithms
-   - Get stemmed word length
+   - Get last stemmed word length
 
 3. **Flexible Integration**:
    - Use `libstemmer.dll` via `USE_LIBSTEMMER_DLL` directive
