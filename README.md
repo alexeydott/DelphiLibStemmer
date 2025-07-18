@@ -106,6 +106,7 @@ function sb_stemmer_length(stemmer: Pointer): Integer;
 #### Repository Integration
 Include this unit with either:
 1. Precompiled `libstemmer.dll` in output folder, or
-2. Precompiled оbject files (`libstemmer.obj`/`libstemmer.o`) in source directory. For custom dll/obj builds see *.h/.c sources in c_src directory. The source files presented in this repository are taken from the latest (at 07.2025) release of the snowball stemmer (Snowball 3.0.1).
+2. Precompiled (witn C++ Builder 12.3) оbject files (`libstemmer.obj`/`libstemmer.o`) in source directory.
+   For custom dll/obj builds see *.h/.c sources in c_src directory. The source files presented in this repository are taken from the latest (at 07.2025) release of the snowball stemmer (Snowball 3.0.1).
 
 For full Snowball algorithm documentation, visit: https://snowballstem.org/
