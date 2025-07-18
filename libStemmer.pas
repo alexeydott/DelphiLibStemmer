@@ -1,4 +1,7 @@
 unit libStemmer;
+/// <summary>
+/// Delphi bindings for the Snowball stemming library, enabling text normalization through stemming algorithms. 
+/// </summary>
 {.$define USE_LIBSTEMMER_DLL} // uncomment to use libstemmer.dll
 interface
 
