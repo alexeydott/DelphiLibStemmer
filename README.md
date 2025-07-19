@@ -110,4 +110,5 @@ Include this unit with either:
    For custom dll/obj builds see *.h/.c sources in c_src directory. The source files presented in this repository are taken from the latest (at 07.2025) release of the snowball stemmer (Snowball 3.0.1).
    
 For building libstemmer from sources see https://github.com/user3486788/snowball/
+
 For full Snowball algorithm documentation, visit: https://snowballstem.org/
